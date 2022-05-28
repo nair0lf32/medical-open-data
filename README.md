@@ -26,7 +26,7 @@ Those could be used for biomedical research/studies, public health statistics, O
 
 | Source (link)                                                                 | Description
 | -------------                                                                 | -------------
-| [French drugs database](hthttps://base-donnees-publique.medicaments.gouv.fr/) | public medicines database to access data on medicines marketed or having been marketed during the last three years in France.
+| [French drugs database](https://base-donnees-publique.medicaments.gouv.fr/) | public medicines database to access data on medicines marketed or having been marketed during the last three years in France.
 
 
 ## By region
