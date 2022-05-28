@@ -22,6 +22,12 @@ Those could be used for biomedical research/studies, public health statistics, O
 | [AIMI Stanford](https://aimi.stanford.edu/research/public-datasets)         | Center for Artificial Intelligence in Medicine & Imaging
 | [IEEE Dataport](https://ieee-dataport.org/topic-tags/medical-imaging)       | provides a sustainable platform to all data owners in support of research and IEEE’s overall mission of Advancing Technology for Humanity 
 
+### * Therapeutics
+
+| Source (link)                                                                 | Description
+| -------------                                                                 | -------------
+| [French drugs database](hthttps://base-donnees-publique.medicaments.gouv.fr/) | public medicines database to access data on medicines marketed or having been marketed during the last three years in France.
+
 
 ## By region
 
