@@ -4,7 +4,7 @@ Just a curated list of (trustworthy) open datasets and articles for health secto
 
 Those could be used for biomedical research/studies, public health statistics, Or in the development of healthcare solutions
 
-## General data
+# General data
 
 | Source (link)                                                               | Description                                                                 
 | -------------                                                               | -------------
@@ -13,32 +13,32 @@ Those could be used for biomedical research/studies, public health statistics, O
 | [Clinical trials](https://www.clinicaltrials.gov/)                          | database of privately and publicly funded clinical studies conducted around the world
 
 
-## By speciality
+# By specialities
 
-### * Imagery
+## Imagery
 
 | Source (link)                                                               | Description
 | -------------                                                               | -------------
 | [AIMI Stanford](https://aimi.stanford.edu/research/public-datasets)         | Center for Artificial Intelligence in Medicine & Imaging
 | [IEEE Dataport](https://ieee-dataport.org/topic-tags/medical-imaging)       | provides a sustainable platform to all data owners in support of research and IEEE’s overall mission of Advancing Technology for Humanity 
 
-### * Therapeutics
+## Therapeutics
 
 | Source (link)                                                                 | Description
 | -------------                                                                 | -------------
 | [French drugs database](https://base-donnees-publique.medicaments.gouv.fr/) | public medicines database to access data on medicines marketed or having been marketed during the last three years in France.
 
 
-## By region
+# By region
 
-### * Europe
+## Europe
 
 | Source (link)                                                                                      | Description
 | -------------                                                                                      | -------------
 | [data Europa](https://data.europa.eu/en/datastories/open-health-data-european-data-portal)         |  Open health data on the European Data Portal
 
 
-## News and articles
+# News and articles
 
 | Source (link)                                                               | Description
 | -------------                                                               | -------------
@@ -47,9 +47,17 @@ Those could be used for biomedical research/studies, public health statistics, O
 | [Biomed central](https://www.biomedcentral.com/)                            | A pioneer of open access publishing...Expanding beyond biomedicine...
 | [PLOS](https://plos.org/)                                                   | Open Access publisher empowering researchers to accelerate progress in science and medicine
 
-## Similar projects (More sources)
+# Similar projects (More sources)
 
 - [Libguides](https://libguides.uthsc.edu/data/datasets)
 - [medical imaging datasets](https://github.com/sfikas/medical-imaging-datasets)
 - [aylward](https://www.aylward.org/notes/open-access-medical-image-repositories)
 - [v7labs](https://www.v7labs.com/blog/healthcare-datasets-for-computer-vision#general-health)
+
+
+## Extra: Common tools used for statistics and analysis
+
+- [IBM SPSS](https://www.ibm.com/fr-fr/products/spss-statistics)
+- [Epi info](https://www.cdc.gov/epiinfo/support/fra/fr_downloads.html)
+- [Excel](https://www.microsoft.com/en-us/microsoft-365/excel) (good old excel)
+
